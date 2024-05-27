@@ -1,0 +1,73 @@
+{
+    "productItems": [
+        {
+            "id": 1,
+            "itemName": "Каша c ягодами",
+            "itemImagePath": "img/cereal-1.png",
+            "category": "",
+            "price": 225
+        },
+        {
+            "id": 2,
+            "itemName": "Каша с шоколадом",
+            "itemImagePath": "img/cereal-2.png",
+            "category": "",
+            "price": 150
+        },
+        {
+            "id": 3,
+            "itemName": "Коктель холодный Махито",
+            "itemImagePath": "img/cocktail.png",
+            "category": "",
+            "price": 155
+        },
+        {
+            "id": 4,
+            "itemName": "Сок апельсиновый",
+            "itemImagePath": "img/juice.png",
+            "category": "",
+            "price": 99
+        },
+        {
+            "id": 5,
+            "itemName": "Стейк",
+            "itemImagePath": "img/meat-1.png",
+            "category": "",
+            "price": 369
+        },
+        {
+            "id": 6,
+            "itemName": "Курица в духовке",
+            "itemImagePath": "img/meat-2.png",
+            "category": "",
+            "price": 299
+        },
+        {
+            "id": 7,
+            "itemName": "Суп с морепродуктами",
+            "itemImagePath": "img/soup-1.png",
+            "category": "",
+            "price": 259
+        },
+        {
+            "id": 8,
+            "itemName": "Крем суп тыквенный",
+            "itemImagePath": "img/soup-2.png",
+            "category": "",
+            "price": 259
+        },
+        {
+            "id": 9,
+            "itemName": "Чай черный",
+            "itemImagePath": "img/tea.png7",
+            "category": "",
+            "price": 99
+        }
+    ],
+
+    "productsCategoryItems": [
+        {
+
+        }
+    ] 
+}
